@@ -1,0 +1,34 @@
+div {
+    border: 1px solid black;
+    margin: 7px;
+    padding: 5px;
+    text-align: center;
+}
+.box0 {
+    background-color: blue;
+    height: 40px;
+}
+.box1 {
+    background-color: red;
+    width: 23%;
+    height: 250px;
+    float: left;
+}
+.box2 {
+    background-color: yellow;
+    width: 73%;
+    height: 250px;
+    float: left;
+}
+.box3 {
+    background-color: orange;
+    width: 23%;
+    height: 250px;
+    float: left;
+}
+.box4 {
+    background-color: green;
+    width: 73%;
+    height: 250px;
+    float: left;
+}
